@@ -18,6 +18,10 @@
 
 ### 1. Clone Repository
 
+<div align="center">
+  <img height="200" src="https://nyenyeeits.me/images/ojs-scan.png"  />
+</div>
+
 ```bash
 git clone https://github.com/0x03Nyenyee/OJS-DIR.git
 cd OJS-DIR
@@ -25,6 +29,3 @@ php scan.php
 
 Silahkeun Masukeun Webna: (masukin link target)
 
-<div align="center">
-  <img height="200" src="https://nyenyeeits.me/images/ojs-scan.png"  />
-</div>
